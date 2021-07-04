@@ -1,13 +1,13 @@
 # VBA-challenge
 
-This project uses a VBA script to analyze stock market data. It goes through each sheet in an excel doc containing stock data and outputs the following information:
+This project uses a VBA script to analyze stock market data. It goes through each sheet in an excel doc containing stock data and outputs the following information in the columns to the right of the data (See the sample results section below for more info):
 
 * The ticker symbol.
 * Yearly change from opening price at the beginning of a given year to the closing price at the end of that year.
 * The percent change from opening price at the beginning of a given year to the closing price at the end of that year.
 * The total stock volume of the stock.
 
-It also provides some conditional formatting that will highlight positive changes in green and negative changes in red.
+It also provides some conditional formatting that will highlight positive changes in green and negative changes in red
 
 ## Excel Document Format
 
