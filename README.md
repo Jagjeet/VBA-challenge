@@ -44,4 +44,28 @@ Note due to limitations in exporting images from excel only the first 512 lines 
 
 ## References
 
-TBD
+The VBA script made use of concepts found at the following links:
+
+### Best Practices/Commenting Styles
+
+* https://www.experts-exchange.com/articles/21759/A-Guide-to-Writing-Understandable-and-Maintainable-VBA-Code.html
+
+### Cell Coloring
+
+* http://dmcritchie.mvps.org/excel/colors.htm
+
+### Debugging
+
+* https://www.automateexcel.com/vba/debug-print-immediate-window
+
+### Looping through Excel Sheets
+
+* https://excelhelphq.com/how-to-loop-through-worksheets-in-a-workbook-in-excel-vba/
+* https://support.microsoft.com/en-us/topic/macro-to-loop-through-all-worksheets-in-a-workbook-feef14e3-97cf-00e2-538b-5da40186e2b0
+
+### Subroutines/Functions
+
+* https://docs.microsoft.com/en-us/office/vba/language/concepts/getting-started/calling-sub-and-function-procedures
+* https://www.automateexcel.com/vba/function/
+* https://www.excel-easy.com/vba/function-sub.html
+* https://docs.microsoft.com/en-us/office/vba/language/reference/user-interface-help/function-statement
